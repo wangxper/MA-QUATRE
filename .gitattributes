@@ -1,3 +1,7 @@
-*.txt linguist-language=python
-*.css linguist-language=python
-*.html linguist-language=python
+*.matlab linguist-detectable=true
+*.css linguist-detectable=false
+*.java linguist-detectable=false
+*.python linguist-detectable=false
+*.js linguist-detectable=false
+*.html linguist-detectable=false  
+*.xml linguist-detectable=false 
